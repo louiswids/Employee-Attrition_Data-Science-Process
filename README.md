@@ -27,7 +27,7 @@ Setup environment:
 ```
 conda create --name main-ds python=3.9
 conda activate main-ds
-pip install numpy pandas seaborn scikit-learn imbalanced-learn
+pip install -r requirements.txt
 jupyter notebook
 python prediciton.py
 
@@ -46,8 +46,8 @@ python prediciton.py
 3. Jenis Pekerjaan dan Pendapatan. Pekerja dengan <i>entry level role</i> cenderung memiliki nilai pendapatan yang lebih rendah. Jenis pekerjaan seperti <i>sales</i> dan <i>laboratory technician</i> akan memiliki pendapatan yang lebih rendah dibandingkan peran lain yang menjadi salah satu faktor <i>attrition</i>.
 4. Keterlibatan Pekerjaan. Pekerja yang memiliki keterlibatan rendah lebih mungkin untuk meninggalkan perusahaan, terutama mereka yang terlibat dalam lembur.
    
-### Rekomendasi Action Items
+### Rekomendasi Action Items (Optional)
 
-- Memastikan lingkungan yang kondusif bagi para pekerja, terutama ketika lembur.
-- Memberikan <i>coaching</i> yang lebih baik terhadap pekerja yang baru masuk, terutama mereka yang berumur muda agar memiliki <i>sense of belonging</i>.
-- Membuat sistem bonus yang membuat para pekerja merasa dihargai, serta memberikan sistem dimana semua pekerja dapat memiliki keterlibatan yang sama
+- Memastikan lingkungan yang kondusif bagi para pekerja, terutama ketika lembur. Hal ini menjadi catatan penting agar para pekerja yang lembur tidak merasa terbebani, terutama bagi mereka yang baru saja masuk perusahaan. Departemen HR juga dapat memberikan informasi tambahan di waktu yang akan datang karena pada saat ini hanya terdapat informasi mengenai apakah pegawai menjalankan lembur atau tidak. 
+- Memberikan <i>coaching</i> yang lebih baik terhadap pekerja yang baru masuk, terutama mereka yang berumur muda agar memiliki <i>sense of belonging</i>. Hal ini akan berkaitan dengan kenyamanan untuk bekerja di perusahaan dan akan berkaitan dengan rekomendasi selanjutnya, yakni untuk mememberi apresiasi kepada para pegawai. Tentu, sistem ini harus dijalankan mulai dari tingkat pekerja <i>entry level</i> hingga tingkat paling atas.
+- Membuat sistem bonus yang membuat para pekerja merasa dihargai, serta memberikan sistem dimana semua pekerja dapat memiliki keterlibatan yang sama. Hal ini berkaitan dengan fakta bahwa pekerja yang memiliki sedikit keterlibatan dalam pekerjaan mereka cenderung akan meninggalkan perusahaan, persuahaan dapat membuat sistem bonus yang memberikan apresiasi yang baik bagi para pegawai dan membuat sistem dimana keterlibatan akan teredistribusi secara merata.
