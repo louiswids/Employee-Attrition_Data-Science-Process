@@ -46,7 +46,7 @@ python prediciton.py
 3. Jenis Pekerjaan dan Pendapatan. Pekerja dengan <i>entry level role</i> cenderung memiliki nilai pendapatan yang lebih rendah. Jenis pekerjaan seperti <i>sales</i> dan <i>laboratory technician</i> akan memiliki pendapatan yang lebih rendah dibandingkan peran lain yang menjadi salah satu faktor <i>attrition</i>.
 4. Keterlibatan Pekerjaan. Pekerja yang memiliki keterlibatan rendah lebih mungkin untuk meninggalkan perusahaan, terutama mereka yang terlibat dalam lembur.
    
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items 
 
 - Memastikan lingkungan yang kondusif bagi para pekerja, terutama ketika lembur. Hal ini menjadi catatan penting agar para pekerja yang lembur tidak merasa terbebani, terutama bagi mereka yang baru saja masuk perusahaan. Departemen HR juga dapat memberikan informasi tambahan di waktu yang akan datang karena pada saat ini hanya terdapat informasi mengenai apakah pegawai menjalankan lembur atau tidak. 
 - Memberikan <i>coaching</i> yang lebih baik terhadap pekerja yang baru masuk, terutama mereka yang berumur muda agar memiliki <i>sense of belonging</i>. Hal ini akan berkaitan dengan kenyamanan untuk bekerja di perusahaan dan akan berkaitan dengan rekomendasi selanjutnya, yakni untuk mememberi apresiasi kepada para pegawai. Tentu, sistem ini harus dijalankan mulai dari tingkat pekerja <i>entry level</i> hingga tingkat paling atas.
